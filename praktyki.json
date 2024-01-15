@@ -1,0 +1,16 @@
+[
+  {
+    "id":"000",
+    "name":"praktyki",
+    "list":[
+      {
+        "id":"001",
+        "name":"Programista",
+        "order":0
+      },
+      {
+        "name":"Instruktor",
+        "order":1
+      }
+    ]
+  }
